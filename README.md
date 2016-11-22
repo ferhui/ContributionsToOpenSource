@@ -15,3 +15,5 @@
 - [HIVE-15221](https://issues.apache.org/jira/browse/HIVE-15221) improvment for MapJoin checkMemoryStatus (in progress)
 
 - [HIVE-14804](https://issues.apache.org/jira/browse/HIVE-14804) hplsql multi connection can not switch back to hive (in progress)
+
+- [HIVE-15257](https://issues.apache.org/jira/browse/HIVE-15257) remove useless cleanupReaders in OrcEncodedDataReader (in progress)
