@@ -16,4 +16,6 @@
 
 - [HIVE-14804](https://issues.apache.org/jira/browse/HIVE-14804) hplsql multi connection can not switch back to hive (in progress)
 
-- [HIVE-15257](https://issues.apache.org/jira/browse/HIVE-15257) remove useless cleanupReaders in OrcEncodedDataReader (in progress)
+- [HIVE-15257](https://issues.apache.org/jira/browse/HIVE-15257) remove useless cleanupReaders in OrcEncodedDataReader (accepted)
+
+- [HIVE-15285](https://issues.apache.org/jira/browse/HIVE-15285) rr info for itests mvn building is not correct (in progress)
