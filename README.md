@@ -18,4 +18,6 @@
 
 - [HIVE-15257](https://issues.apache.org/jira/browse/HIVE-15257) remove useless cleanupReaders in OrcEncodedDataReader (accepted)
 
-- [HIVE-15285](https://issues.apache.org/jira/browse/HIVE-15285) rr info for itests mvn building is not correct (in progress)
+- [HIVE-15285](https://issues.apache.org/jira/browse/HIVE-15285) err info for itests mvn building is not correct (in progress)
+
+- [HIVE-15314](https://issues.apache.org/jira/browse/HIVE-15314) ThriftCLIService should LOG.error rather than LOG.warn when Exception occurs (in progress)
