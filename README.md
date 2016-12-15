@@ -9,7 +9,7 @@
 - [HADOOP-13773](https://issues.apache.org/jira/browse/HADOOP-13773) wrong jvm args in hadoop-env (accepted)
 - [HADOOP-13865](https://issues.apache.org/jira/browse/HADOOP-13865) add tools to classpath by default in branch-2 (reject)
 - [HADOOP-13869](https://issues.apache.org/jira/browse/HADOOP-13869) using HADOOP_USER_CLASSPATH_FIRST inconsistently (in progress)
-- [HADOOP-13898](https://issues.apache.org/jira/browse/HADOOP-13898) should set HADOOP_JOB_HISTORYSERVER_HEAPSIZE only if it's empty on branch2 (in progress)
+- [HADOOP-13898](https://issues.apache.org/jira/browse/HADOOP-13898) should set HADOOP_JOB_HISTORYSERVER_HEAPSIZE only if it's empty on branch2 (accepted)
 
 ## hive
 
@@ -25,7 +25,7 @@
 
 - [HIVE-15314](https://issues.apache.org/jira/browse/HIVE-15314) ThriftCLIService should LOG.error rather than LOG.warn when Exception occurs (in progress)
 
-- [HIVE-15378](https://issues.apache.org/jira/browse/HIVE-15378) clean up HADOOP_USER_CLASSPATH_FIRST in bin scripts (in progress)
+- [HIVE-15378](https://issues.apache.org/jira/browse/HIVE-15378) clean up HADOOP_USER_CLASSPATH_FIRST in bin scripts (accepted)
 
 - [HIVE-15407](https://issues.apache.org/jira/browse/HIVE-15407) add distcp to classpath by default, because hive depends on it. (in progress)
 
