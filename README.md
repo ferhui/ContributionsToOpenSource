@@ -29,5 +29,10 @@
 
 - [HIVE-15407](https://issues.apache.org/jira/browse/HIVE-15407) add distcp to classpath by default, because hive depends on it. (in progress)
 
+- [HIVE-15444](https://issues.apache.org/jira/browse/HIVE-15444) tez.queue.name is invalid after tez job running on CLI (in progress)
+
 ## zeppelin
 - [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (in progress)
+
+## tez
+- [TEZ-3565](https://issues.apache.org/jira/browse/TEZ-3565) amConfig should check queuename isEmpty (in progress)
