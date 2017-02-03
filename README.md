@@ -21,9 +21,9 @@
 
 - [HIVE-15257](https://issues.apache.org/jira/browse/HIVE-15257) remove useless cleanupReaders in OrcEncodedDataReader (accepted)
 
-- [HIVE-15285](https://issues.apache.org/jira/browse/HIVE-15285) err info for itests mvn building is not correct (in progress)
+- [HIVE-15285](https://issues.apache.org/jira/browse/HIVE-15285) err info for itests mvn building is not correct (reject)
 
-- [HIVE-15314](https://issues.apache.org/jira/browse/HIVE-15314) ThriftCLIService should LOG.error rather than LOG.warn when Exception occurs (in progress)
+- [HIVE-15314](https://issues.apache.org/jira/browse/HIVE-15314) ThriftCLIService should LOG.error rather than LOG.warn when Exception occurs (reject)
 
 - [HIVE-15378](https://issues.apache.org/jira/browse/HIVE-15378) clean up HADOOP_USER_CLASSPATH_FIRST in bin scripts (accepted)
 
@@ -32,7 +32,7 @@
 - [HIVE-15444](https://issues.apache.org/jira/browse/HIVE-15444) tez.queue.name is invalid after tez job running on CLI (in progress)
 
 ## zeppelin
-- [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (in progress)
+- [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (accepted)
 
 ## tez
 - [TEZ-3565](https://issues.apache.org/jira/browse/TEZ-3565) amConfig should check queuename isEmpty (in progress)
