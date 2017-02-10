@@ -10,6 +10,8 @@
 - [HADOOP-13865](https://issues.apache.org/jira/browse/HADOOP-13865) add tools to classpath by default in branch-2 (reject)
 - [HADOOP-13869](https://issues.apache.org/jira/browse/HADOOP-13869) using HADOOP_USER_CLASSPATH_FIRST inconsistently (in progress)
 - [HADOOP-13898](https://issues.apache.org/jira/browse/HADOOP-13898) should set HADOOP_JOB_HISTORYSERVER_HEAPSIZE only if it's empty on branch2 (accepted)
+- [HADOOP-14065](https://issues.apache.org/jira/browse/HADOOP-14065) AliyunOSS: oss directory filestatus should use meta time (accepted)
+- [HADOOP-14069](https://issues.apache.org/jira/browse/HADOOP-14069) AliyunOSS: listStatus returns wrong file info (in progress)
 
 ## hive
 
@@ -30,6 +32,8 @@
 - [HIVE-15407](https://issues.apache.org/jira/browse/HIVE-15407) add distcp to classpath by default, because hive depends on it. (in progress)
 
 - [HIVE-15444](https://issues.apache.org/jira/browse/HIVE-15444) tez.queue.name is invalid after tez job running on CLI (in progress)
+- [HIVE-15855](https://issues.apache.org/jira/browse/HIVE-15855) throws NPE when using Hplsql UDF (accepted)
+- [HIVE-15849](https://issues.apache.org/jira/browse/HIVE-15849) hplsql should add enterGlobalScope func to UDF (in progress)
 
 ## zeppelin
 - [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (in progress)
