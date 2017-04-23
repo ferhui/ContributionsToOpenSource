@@ -38,5 +38,5 @@
 
 ## tez
 - [TEZ-3565](https://issues.apache.org/jira/browse/TEZ-3565) amConfig should check queuename isEmpty (accepted)
-- [TEZ-3616](https://issues.apache.org/jira/browse/TEZ-3616) TestMergeManager#testLocalDiskMergeMultipleTasks fails intermittently (in progress)
+- [TEZ-3616](https://issues.apache.org/jira/browse/TEZ-3616) TestMergeManager#testLocalDiskMergeMultipleTasks fails intermittently (accepted)
 - [TEZ-3649](https://issues.apache.org/jira/browse/TEZ-3649) AsyncHttpConnection should add StopWatch start (accepted)
