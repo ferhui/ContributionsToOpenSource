@@ -32,6 +32,9 @@
 - [HIVE-16043](https://issues.apache.org/jira/browse/HIVE-16043) TezConfiguration.TEZ_QUEUE_NAME instead of tez.queue.name (accepted)
 - [HIVE-16187](https://issues.apache.org/jira/browse/HIVE-16187) Flaky Tests:TestHostAffinitySplitLocationProvider#testConsistentHashingFallback usually timed out (accepted)
 - [HIVE-16239](https://issues.apache.org/jira/browse/HIVE-16239) remove useless hiveserver (accepted)
+- [HIVE-16920](https://issues.apache.org/jira/browse/HIVE-16920) remove useless uri.getScheme() from EximUtil (accepted)
+- [HIVE-16939](https://issues.apache.org/jira/browse/HIVE-16939) metastore error: 'export: -Dproc_metastore : not a valid identifier' (accepted)
+- [HIVE-16943](https://issues.apache.org/jira/browse/HIVE-16943) MoveTask should separate src FileSystem from dest FileSystem (in progress)
 
 ## zeppelin
 - [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (in progress)
