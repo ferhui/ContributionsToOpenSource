@@ -15,6 +15,13 @@
 - [HADOOP-14069](https://issues.apache.org/jira/browse/HADOOP-14069) AliyunOSS: listStatus returns wrong file info (accepted)
 - [HADOOP-14176](https://issues.apache.org/jira/browse/HADOOP-14176) distcp reports beyond physical memory limits on 2.X (in progress)
 - [HADOOP-14189](https://issues.apache.org/jira/browse/HADOOP-14189) add distcp-site.xml for distcp on branch-2 (duplicate)
+- [HADOOP-15633](https://issues.apache.org/jira/browse/HADOOP-15633) fs.TrashPolicyDefault: Can't create trash directory (accepted)
+- [HDFS-13821](https://issues.apache.org/jira/browse/HDFS-13821) RBF: Add dfs.federation.router.mount-table.cache.enable so that users can disable cache (accepted)
+- [HDFS-13863](https://issues.apache.org/jira/browse/HDFS-13863) FsDatasetImpl should log DiskOutOfSpaceException (accepted)
+- [HDFS-13293](https://issues.apache.org/jira/browse/HDFS-13293) RBF: The RouterRPCServer should transfer CallerContext and client ip to NamenodeRpcServer (in progress)
+- [HDFS-13248](https://issues.apache.org/jira/browse/HDFS-13248) RBF: Namenode need to choose block location for the client (in progress)
+- [HDFS-13802](https://issues.apache.org/jira/browse/HDFS-13802) RBF: Remove FSCK from Router Web UI (accepted)
+- [HDFS-14114](https://issues.apache.org/jira/browse/HDFS-14114) RBF: MIN_ACTIVE_RATIO should be configurable (accepted)
 
 ## hive
 
