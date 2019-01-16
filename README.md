@@ -41,7 +41,7 @@
 - [HIVE-16239](https://issues.apache.org/jira/browse/HIVE-16239) remove useless hiveserver (accepted)
 - [HIVE-16920](https://issues.apache.org/jira/browse/HIVE-16920) remove useless uri.getScheme() from EximUtil (accepted)
 - [HIVE-16939](https://issues.apache.org/jira/browse/HIVE-16939) metastore error: 'export: -Dproc_metastore : not a valid identifier' (accepted)
-- [HIVE-16943](https://issues.apache.org/jira/browse/HIVE-16943) MoveTask should separate src FileSystem from dest FileSystem (in progress)
+- [HIVE-16943](https://issues.apache.org/jira/browse/HIVE-16943) MoveTask should separate src FileSystem from dest FileSystem (accepted)
 
 ## zeppelin
 - [ZEPPELIN-295](https://issues.apache.org/jira/browse/ZEPPELIN-295) Property "spark.executor.memory" doesn't have effect (in progress)
