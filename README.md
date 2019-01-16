@@ -4,7 +4,7 @@
 
 - [Issue#318](https://github.com/ganglia/ganglia-web/issues/318) incorrect alt value in meta_view, [Pull request](https://github.com/ganglia/ganglia-web/pull/319) (accepted)
 
-## hadoop-common
+## hadoop
 
 - [HADOOP-10738](https://issues.apache.org/jira/browse/HADOOP-10738) Dynamically adjust distcp configuration by adding distcp-site.xml into code base (in progress)
 - [HADOOP-13773](https://issues.apache.org/jira/browse/HADOOP-13773) wrong jvm args in hadoop-env (accepted)
@@ -22,6 +22,9 @@
 - [HDFS-13248](https://issues.apache.org/jira/browse/HDFS-13248) RBF: Namenode need to choose block location for the client (in progress)
 - [HDFS-13802](https://issues.apache.org/jira/browse/HDFS-13802) RBF: Remove FSCK from Router Web UI (accepted)
 - [HDFS-14114](https://issues.apache.org/jira/browse/HDFS-14114) RBF: MIN_ACTIVE_RATIO should be configurable (accepted)
+- [HDFS-14161](https://issues.apache.org/jira/browse/HDFS-14161) RBF: Throw StandbyException instead of IOException so that client can retry when can not get connection (accepted)
+- [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
+- [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (in progress)
 
 ## hive
 
