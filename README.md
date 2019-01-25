@@ -24,7 +24,7 @@
 - [HDFS-14114](https://issues.apache.org/jira/browse/HDFS-14114) RBF: MIN_ACTIVE_RATIO should be configurable (accepted)
 - [HDFS-14161](https://issues.apache.org/jira/browse/HDFS-14161) RBF: Throw StandbyException instead of IOException so that client can retry when can not get connection (accepted)
 - [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
-- [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (in progress)
+- [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (accepted)
 
 ## hive
 
