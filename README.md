@@ -25,6 +25,7 @@
 - [HDFS-14161](https://issues.apache.org/jira/browse/HDFS-14161) RBF: Throw StandbyException instead of IOException so that client can retry when can not get connection (accepted)
 - [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
 - [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (accepted)
+- [HDFS-14230](https://issues.apache.org/jira/browse/HDFS-14230) RBF: Throw RetriableException instead of IOException when no namenodes available (accepted)
 
 ## hive
 
