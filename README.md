@@ -26,6 +26,8 @@
 - [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
 - [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (accepted)
 - [HDFS-14230](https://issues.apache.org/jira/browse/HDFS-14230) RBF: Throw RetriableException instead of IOException when no namenodes available (accepted)
+- [HDFS-13596](https://issues.apache.org/jira/browse/HDFS-13596) RNN restart fails after RollingUpgrade from 2.x to 3.x (in progress)
+- [HDFS-14396](https://issues.apache.org/jira/browse/HDFS-14396) Failed to load image from FSImageFile when downgrade from 3.x to 2.x (in progress)
 
 ## hive
 
