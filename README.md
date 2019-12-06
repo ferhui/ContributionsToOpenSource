@@ -28,7 +28,20 @@
 - [HDFS-14230](https://issues.apache.org/jira/browse/HDFS-14230) RBF: Throw RetriableException instead of IOException when no namenodes available (accepted)
 - [HDFS-13596](https://issues.apache.org/jira/browse/HDFS-13596) RNN restart fails after RollingUpgrade from 2.x to 3.x (accepted)
 - [HDFS-14396](https://issues.apache.org/jira/browse/HDFS-14396) Failed to load image from FSImageFile when downgrade from 3.x to 2.x (accepted)
-- [HDFS-14796](https://issues.apache.org/jira/browse/HDFS-14796) Define LOG instead of BlockManager.LOG in ErasureCodingWork (in progress)
+- [HDFS-14796](https://issues.apache.org/jira/browse/HDFS-14796) Define LOG instead of BlockManager.LOG in ErasureCodingWork (accepted)
+- [HDFS-14802](https://issues.apache.org/jira/browse/HDFS-14802) The feature of protect directories should be used in RenameOp（accepted）
+- [HDFS-14847](https://issues.apache.org/jira/browse/HDFS-14847) Erasure Coding: Blocks are over-replicated while EC decommissioning （accepted）
+- [HDFS-14852](https://issues.apache.org/jira/browse/HDFS-14852) Remove of LowRedundancyBlocks do NOT remove the block from all queues (in progress)
+- [HDFS-14873](https://issues.apache.org/jira/browse/HDFS-14873) Fix dfsadmin doc for triggerBlockReport (accepted)
+- [HDFS-14918](https://issues.apache.org/jira/browse/HDFS-14918) Remove useless getRedundancyThread from BlockManagerTestUtil (accepted)
+- [HDFS-14920](https://issues.apache.org/jira/browse/HDFS-14920) Erasure Coding: Decommission may hang If one or more datanodes are out of service during decommission (accepted)
+- [HDFS-14923](https://issues.apache.org/jira/browse/HDFS-14923) Remove dead code from HealthMonitor (accepted)
+- [HDFS-14946](https://issues.apache.org/jira/browse/HDFS-14946) Erasure Coding: Block recovery failed during decommissioning (accepted)
+- [HDFS-14975](https://issues.apache.org/jira/browse/HDFS-14975) Add LF for SetECPolicyCommand usage (accepted)
+- [HDFS-14998](https://issues.apache.org/jira/browse/HDFS-14998) [SBN read] Update Observer Namenode doc for ZKFC after HDFS-14130 (accepted)
+- [HDFS-15023](https://issues.apache.org/jira/browse/HDFS-15023) [SBN read] ZKFC should check the state before joining the election (accepted)
+
+
 
 ## hive
 
