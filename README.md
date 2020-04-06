@@ -40,7 +40,10 @@
 - [HDFS-14975](https://issues.apache.org/jira/browse/HDFS-14975) Add LF for SetECPolicyCommand usage (accepted)
 - [HDFS-14998](https://issues.apache.org/jira/browse/HDFS-14998) [SBN read] Update Observer Namenode doc for ZKFC after HDFS-14130 (accepted)
 - [HDFS-15023](https://issues.apache.org/jira/browse/HDFS-15023) [SBN read] ZKFC should check the state before joining the election (accepted)
-
+- [HDFS-15062](https://issues.apache.org/jira/browse/HDFS-15062) Add LOG when sendIBRs failed (accepted)
+- [HDFS-15078](https://issues.apache.org/jira/browse/HDFS-15078) RBF: Should check connection channel before sending rpc to namenode (in progress)
+- [HDFS-15079](https://issues.apache.org/jira/browse/HDFS-15079) RBF: Client maybe get an unexpected result with network anomaly (in progress)
+- [HDFS-15081](https://issues.apache.org/jira/browse/HDFS-15081) Typo in RetryCache#waitForCompletion annotation (accepted)
 
 
 ## hive
