@@ -16,6 +16,8 @@
 - [HADOOP-14176](https://issues.apache.org/jira/browse/HADOOP-14176) distcp reports beyond physical memory limits on 2.X (in progress)
 - [HADOOP-14189](https://issues.apache.org/jira/browse/HADOOP-14189) add distcp-site.xml for distcp on branch-2 (duplicate)
 - [HADOOP-15633](https://issues.apache.org/jira/browse/HADOOP-15633) fs.TrashPolicyDefault: Can't create trash directory (accepted)
+- [HADOOP-16814](https://issues.apache.org/jira/browse/HADOOP-16814) Add dropped connections metric for Server (in progress)
+- [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
 - [HDFS-13821](https://issues.apache.org/jira/browse/HDFS-13821) RBF: Add dfs.federation.router.mount-table.cache.enable so that users can disable cache (accepted)
 - [HDFS-13863](https://issues.apache.org/jira/browse/HDFS-13863) FsDatasetImpl should log DiskOutOfSpaceException (accepted)
 - [HDFS-13293](https://issues.apache.org/jira/browse/HDFS-13293) RBF: The RouterRPCServer should transfer CallerContext and client ip to NamenodeRpcServer (in progress)
@@ -23,13 +25,13 @@
 - [HDFS-13802](https://issues.apache.org/jira/browse/HDFS-13802) RBF: Remove FSCK from Router Web UI (accepted)
 - [HDFS-14114](https://issues.apache.org/jira/browse/HDFS-14114) RBF: MIN_ACTIVE_RATIO should be configurable (accepted)
 - [HDFS-14161](https://issues.apache.org/jira/browse/HDFS-14161) RBF: Throw StandbyException instead of IOException so that client can retry when can not get connection (accepted)
-- [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
 - [HDFS-14207](https://issues.apache.org/jira/browse/HDFS-14207) ZKFC should catch exception when ha configuration missing (accepted)
 - [HDFS-14230](https://issues.apache.org/jira/browse/HDFS-14230) RBF: Throw RetriableException instead of IOException when no namenodes available (accepted)
 - [HDFS-13596](https://issues.apache.org/jira/browse/HDFS-13596) RNN restart fails after RollingUpgrade from 2.x to 3.x (accepted)
 - [HDFS-14396](https://issues.apache.org/jira/browse/HDFS-14396) Failed to load image from FSImageFile when downgrade from 3.x to 2.x (accepted)
 - [HDFS-14796](https://issues.apache.org/jira/browse/HDFS-14796) Define LOG instead of BlockManager.LOG in ErasureCodingWork (accepted)
 - [HDFS-14802](https://issues.apache.org/jira/browse/HDFS-14802) The feature of protect directories should be used in RenameOp（accepted）
+- [HDFS-14831](https://issues.apache.org/jira/browse/HDFS-14831) Downgrade Failed from 3.2.0 to 2.7 because of incompatible stringtable（in progress）
 - [HDFS-14847](https://issues.apache.org/jira/browse/HDFS-14847) Erasure Coding: Blocks are over-replicated while EC decommissioning （accepted）
 - [HDFS-14852](https://issues.apache.org/jira/browse/HDFS-14852) Remove of LowRedundancyBlocks do NOT remove the block from all queues (in progress)
 - [HDFS-14873](https://issues.apache.org/jira/browse/HDFS-14873) Fix dfsadmin doc for triggerBlockReport (accepted)
