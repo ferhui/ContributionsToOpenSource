@@ -18,6 +18,7 @@
 - [HADOOP-15633](https://issues.apache.org/jira/browse/HADOOP-15633) fs.TrashPolicyDefault: Can't create trash directory (accepted)
 - [HADOOP-16814](https://issues.apache.org/jira/browse/HADOOP-16814) Add dropped connections metric for Server (in progress)
 - [MAPREDUCE-7174](https://issues.apache.org/jira/browse/MAPREDUCE-7174) MapReduce example wordmedian should handle generic options (accepted)
+- [HDFS-12999](https://issues.apache.org/jira/browse/HDFS-12999) When reach the end of the block group, it may not need to flush all the data packets(flushAllInternals) twice (accepted)
 - [HDFS-13821](https://issues.apache.org/jira/browse/HDFS-13821) RBF: Add dfs.federation.router.mount-table.cache.enable so that users can disable cache (accepted)
 - [HDFS-13863](https://issues.apache.org/jira/browse/HDFS-13863) FsDatasetImpl should log DiskOutOfSpaceException (accepted)
 - [HDFS-13293](https://issues.apache.org/jira/browse/HDFS-13293) RBF: The RouterRPCServer should transfer CallerContext and client ip to NamenodeRpcServer (in progress)
