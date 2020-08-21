@@ -46,6 +46,9 @@
 - [HDFS-15078](https://issues.apache.org/jira/browse/HDFS-15078) RBF: Should check connection channel before sending rpc to namenode (in progress)
 - [HDFS-15079](https://issues.apache.org/jira/browse/HDFS-15079) RBF: Client maybe get an unexpected result with network anomaly (in progress)
 - [HDFS-15081](https://issues.apache.org/jira/browse/HDFS-15081) Typo in RetryCache#waitForCompletion annotation (accepted)
+- [HDFS-15092](https://issues.apache.org/jira/browse/HDFS-15092) TestRedudantBlocks#testProcessOverReplicatedAndRedudantBlock sometimes fails (accepted)
+- [HDFS-15514](https://issues.apache.org/jira/browse/HDFS-15514) Remove useless dfs.webhdfs.enabled (accepted)
+
 
 
 ## hive
